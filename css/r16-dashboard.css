@@ -1,0 +1,16 @@
+.r16_select {
+    width: 100%;
+    min-height: 200px;
+}
+
+#r16_portal {
+    float: right;
+    padding-right: 8px;
+    padding-top: 5px;
+    margin: 0;
+    font-size: 11px;
+}
+
+#r16_portal button {
+    margin-left: 8px;
+}
